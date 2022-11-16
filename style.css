@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cuerpo{
+    margin: 0 auto;
+    width: 500px;
+    margin-top: 40px;
+    margin-bottom: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+}
+.header , .autor ,.footer_img, .three_dot{
+    display: flex;
+    align-items: center;
+}
+.header{
+    margin-left: 10px ;
+    margin-right: 10px ;
+}
+.autor{
+    flex:1;
+}
+.autor_icon{
+    font-size: 30px;
+}
+.autor_name{
+    margin-left: 10px;
+}
+.three_dot{
+    font-size: 40px !important;
+    justify-content: flex-end;
+}
+.three_icon{
+    font-size: 35px !important;
+    flex: 1;
+}
+.save{
+    font-size: 40px !important;
+    margin-left: 315px;
+}
+
+.imagen{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.desc_img, .footer_img{
+    margin-left: 10px ;
+    margin-right: 15px ;
+}

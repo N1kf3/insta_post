@@ -35,14 +35,16 @@ body{
 .three_dot{
     font-size: 40px !important;
     justify-content: flex-end;
+    margin-right: 15px;
 }
 .three_icon{
-    font-size: 35px !important;
+    font-size: 30px !important;
     flex: 1;
 }
 .save{
-    font-size: 40px !important;
-    margin-left: 315px;
+    font-size: 30px !important;
+    margin-left: 340px;
+    
 }
 
 .imagen{
